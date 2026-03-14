@@ -28,11 +28,11 @@ Sistema desarrollado en C++ para la **Registraduría Nacional del Estado Civil**
 - `data/maestros`: archivos planos maestros
 
 ## Ejecución
-1. Compilar con Dev-C++ o cualquier compilador C++ estándar.
+1. Compilar con Visual Studio Code o cualquier compilador C++ estándar.
 2. Asegurar que existan los archivos en `data/maestros/`:
    - `regiones.txt`, `ciudades.txt`, `partidos.txt`,
    - `candidatos_alcaldia.txt`, `candidatos_presidencia.txt`
-3. Ejecutar el binario; se cargan datos y se muestra el menú principal.
+3. Crear el binario usando  g++ -o SimuladorElectoral.exe main.cpp y luego ejecutar este binario usando .\SimuladorElectoral.exe; se cargan datos y se muestra el menú principal.
 
 ## Funcionalidades clave
 - Consultas por partido y región, por ciudad, y listados de presidencia.
