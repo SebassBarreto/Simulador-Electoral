@@ -1,0 +1,9 @@
+Liberal|Rep Lib|106
+Conservador|Rep Cons|107
+Verde|Rep Verde|108
+Polo|Rep Polo|109
+La U|Rep La U|110
+CcompCons|Rep CcompCons|111
+CcompLib|Rep CcompLib|112
+CcompPol|Rep CcompPol|113
+CcompVerd|Rep CcompVerd|114

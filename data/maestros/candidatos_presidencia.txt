@@ -1,0 +1,5 @@
+Mark|Twain|32654876|M|Union Libre|18|1|74|Cali|Cicomland|La U|P|
+Chavela|Vargas|13693256|F|Casado|19|5|72|Medellin|Cicomland|CcompCons|P|
+Alfonsina|Storni|10121235|F|Soltero|8|6|68|Cicomland|Cicomland|CcompLib|P|
+Mario|Moreno|73498273|M|soltero|2|8|85|Cicomland|Cicomland|CcompPol|P|
+Jorge|Rocha|75395168|M|Divorciado|12|8|73|Bogota|Cicomland|CcompVerd|P|

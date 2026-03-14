@@ -1,0 +1,4 @@
+Pedro|Rodriguez|12345678|M|soltero|5|6|60|Medellin|Cicomland|Liberal|A|
+Ana|Ramirez|98765432|F|casado|29|6|67|Cicomland|Cicomland|Conservador|A|
+Maria|Moliner|101016332|F|Union Libre|15|11|75|Cicomland|Cicomland|Verde|A|
+Luis|Lopez|56842973|M|Divorciado|4|7|70|Bogota|Cicomland|Polo|A|
