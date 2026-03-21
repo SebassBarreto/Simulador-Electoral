@@ -3,8 +3,8 @@
 # Election Simulator - Data Structures and Algorithms
 
 
-![Status](https://img.shields.io/badge/Status-active-success.svg) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-active-success.svg) ![C++](https://img.shields.io/badge/C%2B%2B-100.0%25-blue.svg)
 *Built with the tools and technologies:*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 </div>
